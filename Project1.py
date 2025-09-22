@@ -1,6 +1,5 @@
 # WAP input side of a Square, Triangle, Pentagon and print its sum
 
-
 side = int(input("enter square side:"))
 sum1 = side*4
 print("your square sides =", sum1)
