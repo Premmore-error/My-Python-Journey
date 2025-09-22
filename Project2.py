@@ -1,6 +1,7 @@
 #Create details about Two companies, conert the details into string format, and print all details as well as its type after conversion 
  
 
+
 #Company no.1
 
 company1 = "Google"
